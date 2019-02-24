@@ -17,3 +17,6 @@
 - [Building a Question Answering model](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54)
 
 
+# VQA
+ - [Visual Question Answering Demo in Python Notebook](https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook)
+
