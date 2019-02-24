@@ -10,3 +10,4 @@
 - [y1y2f3]
 - [Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 - [Introductory guide to Generative Adversarial Networks ](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/)
+- [](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
